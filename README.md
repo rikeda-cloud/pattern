@@ -20,16 +20,19 @@
 <img src="https://github.com/user-attachments/assets/e5395755-c7ff-40b9-ab2c-3369900fd0bd" width=400px>
 
 ## Memento
-* データベースのフルバックアップ
+* データベースのフルバックアップ・リストア
 
 ## Prototype
-* dockerファイルとイメージ,
+* dockerイメージとDockerfileによる拡張
 
 ## Adapter
-* BFF
+* 物理的なアダプター
+* ORM
 
 ## Facade
 * makeなどのビルドツール
+* 銀行
+* BFFやオーケストレーションパターン
 
 ## Flyweight
 * カーシェア

@@ -33,3 +33,4 @@
 
 ## Flyweight
 * カーシェア
+* DockerのLinuxカーネルの共有

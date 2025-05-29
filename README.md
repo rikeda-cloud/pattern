@@ -15,14 +15,15 @@
 * prometheusとAlertManageer
 <img src="https://github.com/user-attachments/assets/20c1ee5a-5191-493e-9885-d2ec00e913bc" width=400px>
 
-## Command & Memento
-* データベースのフルバックアップと増分、差分バックアップ,
+## Command
+* データベースのロールバック・ロールフォワード処理
+<img src="https://github.com/user-attachments/assets/e5395755-c7ff-40b9-ab2c-3369900fd0bd" width=400px>
+
+## Memento
+* データベースのフルバックアップ
 
 ## Prototype
 * dockerファイルとイメージ,
-
-## Singleton
-* インスタンスが1つのサーバ
 
 ## Adapter
 * BFF

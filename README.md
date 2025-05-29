@@ -11,7 +11,9 @@
 <img src="https://github.com/user-attachments/assets/c4f024c9-0f4e-4cd1-9fb4-706324630b53" width=500px>
 
 ## Observer
-* サーバ監視prometheus,
+* スマートニュース
+* prometheusとAlertManageer
+<img src="https://github.com/user-attachments/assets/20c1ee5a-5191-493e-9885-d2ec00e913bc" width=400px>
 
 ## Command & Memento
 * データベースのフルバックアップと増分、差分バックアップ,

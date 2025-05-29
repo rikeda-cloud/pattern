@@ -2,8 +2,9 @@
 
 ## Chain Of Responsibility
 * Q&Aが部門間を跨いでたらい回しにされる様子
-* 濾過工程
- 
+* 水の濾過工程
+<img src="https://github.com/user-attachments/assets/7cc6d0d9-3fcb-426f-bf5f-5d84a9785d4e" width=500px>
+
 ## Mediator
 * 空港の管制塔
 * 銀行

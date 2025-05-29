@@ -7,7 +7,8 @@
 
 ## Mediator
 * 空港の管制塔
-* 銀行
+* 銀行の受付
+<img src="https://github.com/user-attachments/assets/c4f024c9-0f4e-4cd1-9fb4-706324630b53" width=500px>
 
 ## Observer
 * サーバ監視prometheus,

@@ -25,6 +25,7 @@
 
 ## Prototype
 * dockerイメージとDockerfileによる拡張
+<img src="https://github.com/user-attachments/assets/2d82a0fa-9f55-4e20-b090-af2f70a37c5a" width=400px>
 
 ## Adapter
 * 物理的なアダプター

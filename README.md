@@ -21,6 +21,7 @@
 
 ## Memento
 * データベースのフルバックアップ・リストア
+<img src="https://github.com/user-attachments/assets/36827dd9-8bc3-49cb-90f1-302d7f21c36c" width=400px>
 
 ## Prototype
 * dockerイメージとDockerfileによる拡張

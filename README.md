@@ -30,6 +30,7 @@
 ## Adapter
 * 物理的なアダプター
 * ORM
+<img src="https://github.com/user-attachments/assets/1e7b6f63-a357-4601-993a-6b487c0d902e" width=400px>
 
 ## Facade
 * makeなどのビルドツール

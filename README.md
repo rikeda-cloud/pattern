@@ -36,6 +36,7 @@
 * makeなどのビルドツール
 * 銀行
 * BFFやオーケストレーションパターン
+<img src="https://github.com/user-attachments/assets/861d7565-f448-49ca-b3f9-582307e684b5" width=400px>
 
 ## Flyweight
 * カーシェア

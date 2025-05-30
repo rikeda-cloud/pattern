@@ -39,3 +39,4 @@
 ## Flyweight
 * カーシェア
 * DockerのLinuxカーネルの共有
+<img src="https://github.com/user-attachments/assets/b3c97969-fb9b-4d9c-bad0-dce8f76f1516" width=400px>
